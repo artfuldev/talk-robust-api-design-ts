@@ -1,0 +1,24 @@
+{
+  "name": "talk-robust-api-design-ts",
+  "version": "1.0.0",
+  "description": "A repository to showcase robust API design in TypeScript",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artfuldev/talk-robust-api-design-ts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artfuldev/talk-robust-api-design-ts/issues"
+  },
+  "homepage": "https://github.com/artfuldev/talk-robust-api-design-ts#readme",
+  "devDependencies": {
+    "ts-toolbelt": "^9.6.0",
+    "ts-toolbox": "^0.1.0",
+    "typescript": "^5.1.6"
+  }
+}
