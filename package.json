@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/artfuldev/talk-robust-api-design-ts#readme",
   "devDependencies": {
-    "ts-toolbelt": "^9.6.0",
-    "ts-toolbox": "^0.1.0",
     "typescript": "^5.1.6"
   }
 }
